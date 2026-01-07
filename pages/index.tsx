@@ -2,7 +2,7 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 import Link from "next/link";
-const name = "L RMN";
+const name = "Lights.out.";
 const Bio1 = "❝Signed off to live a different story❞";
 const Bio2 = "Blogger | Dreamer | Observer 🗿";
 import instagram from "../public/assests/logo/social/instagram.svg";
