@@ -187,13 +187,13 @@ export default function Home() {
                                     title="A Question"
                                     className="text-ellipsis text-[16px] text-zinc-400"
                                   >
-                                    A Question wanted to ask her
+                                    A Question
                                   </span>
                                   <span
                                     title="Web toolbox"
                                     className="xs:w-[220px] mt-1 w-[175px] truncate text-ellipsis whitespace-nowrap text-[14px] text-zinc-700 sm:w-[275px] md:w-[340px] lg:w-[400px]"
                                   >
-                                    A collection of my in-game photography
+                                    A Question to ask her
                                   </span>
                                 </div>
                               </div>
