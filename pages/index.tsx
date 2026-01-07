@@ -117,12 +117,18 @@ export default function Home() {
                       />
                     </a>
                     <a
-                      href="https://medium.com/@lrmn"
+                      href="https://pintrest.com/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      <Image src={medium} alt="Medium" width={24} height={24} />
+                      <Image
+                        src={pinterest}
+                        alt="pinterest"
+                        width={24}
+                        height={24}
+                      />
                     </a>
+                    <a
 
                     <div className="max-w-s mt-1 w-full space-y-2">
                       <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
