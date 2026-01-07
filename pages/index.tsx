@@ -2,7 +2,7 @@ import { NowPlaying } from "../components";
 import Image from "next/image";
 import Banners from "../components/Banner";
 import Link from "next/link";
-const name = "L RMN";
+const name = "Lights.out.";
 const Bio1 = "❝Signed off to live a different story❞";
 const Bio2 = "Blogger | Dreamer | Observer 🗿";
 import instagram from "../public/assests/logo/social/instagram.svg";
@@ -74,7 +74,7 @@ export default function Home() {
                   <Banners />
                   <div className="mt-3 flex flex-row flex-wrap items-center justify-center gap-4">
                     <a
-                      href="https://instagram.com/eleremen7"
+                      href="https://instagram.com/anas.ike"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -86,45 +86,14 @@ export default function Home() {
                       />
                     </a>
                     <a
-                      href="https://x.com/romanromannya"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <Image
-                        src={twitter}
-                        alt="Twitter"
-                        width={24}
-                        height={24}
-                      />
-                    </a>
-                    <a
-                      href="https://www.tiktok.com/@eleremen"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <Image src={tiktok} alt="TikTok" width={24} height={24} />
-                    </a>
-                    <a
-                      href="https://id.pinterest.com/romanromannya"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <Image
-                        src={pinterest}
-                        alt="Pinterest"
-                        width={24}
-                        height={24}
-                      />
-                    </a>
-                    <a
-                      href="https://github.com/lrmn7"
+                      href="https://github.com/anas-ike"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <Image src={github} alt="GitHub" width={24} height={24} />
                     </a>
                     <a
-                      href="https://open.spotify.com/artist/3jHW4HKnaYSaEmovirJRKj"
+                      href="https://open.spotify.com/user/82kz1tfqi84c9fib7b9kfc15h/"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
@@ -136,25 +105,13 @@ export default function Home() {
                       />
                     </a>
                     <a
-                      href="https://discord.com/invite/9HkKkkA9Jt"
+                      href="https://discord.gg/AaZasMN3yG"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
                       <Image
                         src={discord}
                         alt="Discord"
-                        width={24}
-                        height={24}
-                      />
-                    </a>
-                    <a
-                      href="https://www.youtube.com/@eleremen"
-                      target="_blank"
-                      rel="noopener noreferrer"
-                    >
-                      <Image
-                        src={youtube}
-                        alt="Youtube"
                         width={24}
                         height={24}
                       />
@@ -214,7 +171,7 @@ export default function Home() {
 
                       <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
-                          href="https://vp.lrmn.link/"
+                          href="https://a-question.lightsout.in/"
                           target="_blank"
                           rel="noopener noreferrer nofollow"
                           className="w-full transition-all sm:hover:opacity-70"
@@ -227,10 +184,10 @@ export default function Home() {
                                 </div>
                                 <div className="mx-4 flex flex-col">
                                   <span
-                                    title="Virtual Photography"
+                                    title="A Question"
                                     className="text-ellipsis text-[16px] text-zinc-400"
                                   >
-                                    Virtual Photography
+                                    A Question wanted to ask her
                                   </span>
                                   <span
                                     title="Web toolbox"
