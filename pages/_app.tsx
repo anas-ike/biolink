@@ -46,32 +46,32 @@ function MyApp({ Component, pageProps }: AppProps) {
       <Analytics />
 
       <NextSeo
-        title="L RMN  | いつか、私がヒトじゃなくなっても"
-        titleTemplate="L RMN - Mostly Sleepless"
-        defaultTitle="L RMN  | Mostly Sleepless"
-        description="Hey! I'm L RMN , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
+        title="Lights.out. | いつか、私がヒトじゃなくなっても"
+        titleTemplate="Lights.out. - Mostly Sleepless"
+        defaultTitle="Lights.out. | Mostly Sleepless"
+        description="Hey! I'm Lights.out., I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!"
         openGraph={{
-          url: "https://hi-lrmn.is-a.dev/",
-          title: "L RMN | いつか、私がヒトじゃなくなっても",
+          url: "https://Lightsout.in/",
+          title: "Lights.out. | いつか、私がヒトじゃなくなっても",
           description:
-            "Hey! I'm L RMN , I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!",
+            "Hey! I'm Lights.out., I love exploring everything related to technology. Aside from that, I have a great interest in the world of photography, especially virtual photography in video games!",
           images: [
             {
-              url: "https://hi-lrmn.is-a.dev/og-image.png",
+              url: "https://Lightsout.in/og-image.png",
               alt: "L RMN  | いつか、私がヒトじゃなくなっても",
             },
           ],
         }}
         twitter={{
-          handle: "@romanromannya",
-          site: "@romanromannya",
+          handle: "@kuwaitisike",
+          site: "@kuwaitisike",
           cardType: "summary_large_image",
         }}
         additionalMetaTags={[
           {
             property: "keywords",
             content:
-              "Virtual Photography, Blogger, Discord Bot Developer, Web Developer, Mewwme's, Web Developer, Discord Music Bot, tech enthusiast, open source",
+              "Virtual Photography, Blogger, Discord Bot Developer, Web Developer, Elfbot, Web Developer, Discord Music Bot, tech enthusiast, open source",
           },
         ]}
       />
