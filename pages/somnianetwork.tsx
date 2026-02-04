@@ -1,7 +1,7 @@
 import Image from "next/image";
 import Link from "next/link";
 import Banners from "../components/Banner";
-const name = "L RMN";
+const name = "Lights.out.";
 const Bio1 = "❝Signed off to live a different story❞";
 const Bio2 = "Blogger | Dreamer | Observer 🗿";
 import instagram from "../public/assests/logo/social/instagram.svg";
@@ -265,7 +265,7 @@ dApps i built on somnia. fast. fun. fully onchain.
                     <div className="container mx-auto text-center">
                      ✦ born from silence, built with purpose ✦
                       <p className="text-gray text-s">
-                        © {new Date().getFullYear()} L RMN. All rights reserved.
+                        © {new Date().getFullYear()} Lights.out. All rights reserved.
                       </p>
                     </div>
                   </footer>
