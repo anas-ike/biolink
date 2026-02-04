@@ -275,7 +275,7 @@ export default function Home() {
                                     title="Nothing"
                                     className="text-ellipsis text-[16px] text-zinc-400"
                                   >
-                                    Mewwme&apos;s
+                                    Elf&apos;s Music
                                   </span>
                                   <span
                                     title=""
