@@ -215,7 +215,7 @@ export default function Home() {
 
                       <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
-                          href="https://music.lrmn.link/"
+                          href="https://Elfmusic.lightsout.in/"
                           target="_blank"
                           rel="noopener noreferrer nofollow"
                           className="w-full transition-all sm:hover:opacity-70"
@@ -259,7 +259,7 @@ export default function Home() {
 
                       <div className="bg-animate group mb-1 w-full cursor-pointer rounded bg-gradient-to-r from-zinc-900 via-zinc-600 to-zinc-900 text-sm text-zinc-400 shadow transition-all">
                         <a
-                          href="https://mewwme.lrmn.link/"
+                          href="https://elfmusic.lightsout.in/"
                           target="_blank"
                           rel="noopener noreferrer nofollow"
                           className="w-full transition-all sm:hover:opacity-70"
@@ -362,7 +362,7 @@ export default function Home() {
             <div className="container mx-auto text-center">
               ✦ born from silence, built with purpose ✦
               <p className="text-gray text-s">
-                {new Date().getFullYear()} L RMN. All rights reserved.
+                {new Date().getFullYear()} Lights.out. All rights reserved.
               </p>
             </div>
           </footer>
